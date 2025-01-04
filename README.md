@@ -1,12 +1,12 @@
 Hi there 👋
 
  💫 About Me:
-I’m a Computer Science major at Minerva University, passionate about leveraging technology to solve real-world problems and drive sustainability. My interests include machine learning, web development, and computational physics.<br><br>🌱 When I’m not coding, I’m exploring the intersection of technology and environmental science or contributing to open-source projects.
+I’m a Computer Science major at Minerva University, passionate about leveraging technology to solve real-world problems and drive sustainability. My interests include machine learning, web development, and computational physics.<br><br>🌱 \n When I’m not coding, I’m outdoors exploring mountains and beaches, watching Formula 1, or convincing my friends that my cooking experiments don’t require a version rollback.
 
 🌟 What drives me?
-	•	Building tools that make life simpler and smarter.
-	•	Exploring the synergy between our computational tools and environmental science to tackle global challenges.
-	•	Pushing the boundaries of what’s possible with creative problem-solving.
+- Building tools that make life simpler and smarter.
+- Exploring the synergy between our computational tools and environmental science to tackle global challenges.
+- Pushing the boundaries of what’s possible with creative problem-solving.
 
 
 # 💻 Tech Stack:
